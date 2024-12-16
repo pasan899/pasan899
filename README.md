@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pasan899
+- 👋 Hi, I’m @Pasan Nanayakkara
 - 👀 I’m interested in wordpress website developing
 - 🌱 I’m currently learning wordpress website developing & programming languages
 - 💞️ I’m looking to collaborate on anything i can learn
-- 📫 How to reach me tharinanayakkara@gmail.com
+- 📫 How to reach me pasan.reachme@gmail.com
 
 <!---
 pasan899/pasan899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
